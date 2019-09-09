@@ -37,3 +37,8 @@ All the news updates below are from the Google Sheet  [here](https://docs.google
     ```
 5. Add the editted url to the sheet2new.js and you are ready to go!
 
+### Cross Origin Reading Error With Fetch 
+    ``` 
+    Just in case you are greeted with #CRO error in fetch and you cannot fix it 
+
+    Just switch your fetch reqs to ajax
