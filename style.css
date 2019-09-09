@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Text&display=swap');
+
+body{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Red Hat Text', sans-serif;
+    background: whitesmoke;
+    margin:0;
+    padding:0;
+  }
+
+  a{
+    color: whitesmoke;
+  }
+  a:hover{
+    color: aqua;
+  }
+
+  section{
+    background:#0000bf;
+    z-index: -20;
+    padding-top: 40px;
+  }
+
+.heading{ 
+    line-height: 1;
+    font-size: calc(2.7em + 0.2vw);
+    color: whitesmoke;
+    padding-top: 60px;
+    margin-bottom: 30px;
+
+  }
+
+.sub-heading{
+    line-height: 1.8;
+    font-size: calc(0.7em + 0.7vw);
+    color: whitesmoke;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+.mini-heading{
+  line-height: 2;
+  font-size: calc(0.8em + 0.5vw);
+  color: whitesmoke;
+  margin-bottom: 70px;
+  padding-top: 30px;
+}
+
+.container{
+    padding: 5vw 15vw 2vw 15vw;
+  }
+
+
+.gSheet_date{
+    padding-bottom:50px;
+    color: #9b9b9b;
+    font-size: calc(0.5em + 0.5vw);
+  }
+  
+.gSheet_title{
+    color: black;
+    padding-bottom:10px;
+    font-size: calc(1em + 0.5vw);
+  }
+
+.gSheet_news{
+    font-size: calc(0.8em + 0.5vw);
+    color: #9b9b9b;
+  }
+  
+  
